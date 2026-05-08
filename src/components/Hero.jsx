@@ -2,7 +2,7 @@ import React from 'react';
 
 const Hero = () => {
   return (
-    <section id="about" className="min-h-screen flex flex-col justify-center items-center pt-20 px-6 bg-grid">
+    <section id="home" className="min-h-screen flex flex-col justify-center items-center pt-20 px-6 bg-grid">
       <div className="max-w-4xl text-center">
         <div className="inline-block px-4 py-1.5 mb-6 rounded-full glass border border-white/10 text-sm font-medium text-indigo-400">
           Available for new opportunities
